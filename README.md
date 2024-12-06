@@ -10,6 +10,9 @@ Make sure [Graphviz](https://graphviz.org) is installed and that the 'dot' tool 
 
 Open outputfile.svg in your web browser or other tool
 
+## Example output
+![Image](examples/example.svg "example output")
+
 ## Background
 A static library is just an archive of object files (compiled code).
 If you have an archive with object files that have inter dependencies this
